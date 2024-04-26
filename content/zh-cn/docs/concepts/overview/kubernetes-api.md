@@ -65,7 +65,7 @@ specification for enabling command-line completion and other features.
 The two supported mechanisms are as follows:
 -->
 每个 Kubernetes 集群都会发布集群所使用的 API 规范。
-Kubernetes 使用两种机制来发布这些 API 规范；这两种机制都有助于实现自动互操作。
+Kubernetes 使用两种机制来发布这些 API 规范；这两种机制都有助于实现自动化操作。
 例如，`kubectl` 工具获取并缓存 API 规范，以实现命令行补全和其他特性。所支持的两种机制如下：
 
 <!--
